@@ -1,13 +1,19 @@
 
 body{
 
+<<<<<<< HEAD
 
 margin: 0 auto;
 
+=======
+margin: 0 auto;
+background-size: 100% 720px;
+>>>>>>> da9c260b910b76f7548f1d1babcc2eefaad96b0b
 background-repeat: no-repeat;
 background-position: center;
 
 
+<<<<<<< HEAD
 
 }
 
@@ -16,6 +22,8 @@ body{
 	background-image:url("Back22.jpg");
     background-repeat: no-repeat;
     background-size:cover;
+=======
+>>>>>>> da9c260b910b76f7548f1d1babcc2eefaad96b0b
 }
 
 
@@ -23,6 +31,7 @@ body{
 
 
 .container1{
+<<<<<<< HEAD
 width:700px;
 height: 1200px;
 text-align: center;
@@ -71,12 +80,20 @@ background-image:url("Back2.png");
 background-size: 500px 600px;
     
 
+=======
+width:350px;
+height: 500px;
+text-align: center;
+background-color: rgba(52, 73, 94, 0.7);
+
+>>>>>>> da9c260b910b76f7548f1d1babcc2eefaad96b0b
 border-radius: 20px;
 margin: 10px;
 margin-top: 50px;
 margin-left: 300px;
 background-repeat: no-repeat;
 
+<<<<<<< HEAD
 
 
 }
@@ -126,10 +143,13 @@ background-repeat: no-repeat;
 .card-content{
 	width: 500px;
 
+=======
+>>>>>>> da9c260b910b76f7548f1d1babcc2eefaad96b0b
 }
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -137,6 +157,13 @@ background-repeat: no-repeat;
 .card-content{
 width: 250px;
 text-underline-position: center;
+=======
+.container1 img{
+  width: 120px;
+  height: 120px;
+  margin-top: 40px;
+  margin-bottom:30px;
+>>>>>>> da9c260b910b76f7548f1d1babcc2eefaad96b0b
 
 }
 
@@ -148,11 +175,17 @@ width:300px;
 font-size: 18px;
 margin-bottom: 20px;
 font-color: black;
+<<<<<<< HEAD
 background-color: white;
 padding-left: 30px;
 margin-left: 20px;
 position: center;
 
+=======
+background-color: #fff;
+padding-left: 30px;
+margin-left: 30px;
+>>>>>>> da9c260b910b76f7548f1d1babcc2eefaad96b0b
 
 
 }
